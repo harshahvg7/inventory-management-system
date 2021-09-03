@@ -1,2 +1,5 @@
 # inventory-management-system
 It shows HVG market sales inventory system 
+SYSTEM FEATURES:
+YOU CAN VIEW THE PRODUCTS AVAILABLE IN THE MARKET
+YOU CAN BUY THE PRODUCTS WHICH YOU LIKE
